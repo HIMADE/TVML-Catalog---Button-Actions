@@ -1,0 +1,49 @@
+{
+  "contents": [{
+    "title": "Template Catalog - Squares",
+    "contentIdentifier": {
+      "identifier": "section-1"
+    },
+    "topShelfItems": [{
+      "title": "List",
+      "displayURL": "catalog://templates/ListLockups.xml",
+      "imageURL": "http://atv.apple.com/catalog/resources/images/music/music_520_e1.lcr",
+      "imageShape": 2,
+      "contentIdentifier": {
+        "identifier": "2"
+      }
+    }, {
+      "title": "Stack",
+      "displayURL": "catalog://templates/Stack.xml",
+      "imageURL": "http://atv.apple.com/catalog/resources/images/music/music_520_e2.lcr",
+      "imageShape": 2,
+      "contentIdentifier": {
+        "identifier": "3"
+      }
+    }, {
+      "title": "Compilation",
+      "displayURL": "catalog://templates/Compilation.xml",
+      "imageURL": "http://atv.apple.com/catalog/resources/images/music/music_520_e3.lcr",
+      "imageShape": 2,
+      "contentIdentifier": {
+        "identifier": "4"
+      }
+    }, {
+      "title": "Parade",
+      "displayURL": "catalog://templates/Parade.xml",
+      "imageURL": "http://atv.apple.com/catalog/resources/images/music/music_520_e4.lcr",
+      "imageShape": 2,
+      "contentIdentifier": {
+        "identifier": "5"
+      }
+    }, {
+      "title": "Room",
+      "displayURL": "catalog://templates/Room.xml",
+      "imageURL": "http://atv.apple.com/catalog/resources/images/music/music_520_e5.lcr",
+      "imageShape": 2,
+      "contentIdentifier": {
+        "identifier": "6"
+      }
+    }]
+  }]
+}
